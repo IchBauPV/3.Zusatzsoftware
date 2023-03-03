@@ -1,4 +1,4 @@
-Hier findet Ihr Zusatzsoftware für das PV Projekt zur Visualisierung und das Kalkulationstool für die Ertrags-(Amortisationsrechnung)
+Hier findet Ihr Zusatzsoftware für das PV Projekt zur Visualisierung und das Kalkulationstool demnächst für die Ertrags-(Amortisationsrechnung)
 
 A. Die Visualisierung in Excel  
 Dies funktioniert wie folgt (steht auch auf Seite Anleitung):
