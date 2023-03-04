@@ -1,6 +1,6 @@
 Hier findet Ihr Zusatzsoftware für das PV Projekt zur Visualisierung und das Kalkulationstool demnächst für die Ertrags-(Amortisationsrechnung)
 
-A. Die Visualisierung in Excel  
+## A. Visualisierung in Excel  
 1.	Makros aktivieren  
 Im Datei Explorer Datei rechts-klicken => Eigenschaften => Sicherheit => Zulassen Haken setzen, übernehmen	
 2.	Einrichtung	  
@@ -19,8 +19,8 @@ Im Datei Explorer Datei rechts-klicken => Eigenschaften => Sicherheit => Zulasse
 		
 6.	Optionale Erweiterung  
  Zugriff aus über das Internet	
-		Durch Einrichtung einer Port-Weiterleitung im Router könnte Ihr auch aus dem Web zugreifen
-		Achtung: Es gib hier keine Schutzfunktionen oder Passwörter, jeder kann zugreifen !!!
+		Durch Einrichtung einer Port-Weiterleitung im Router könnte Ihr auch aus dem Web zugreifen   
+		Achtung: Es gib hier keine Schutzfunktionen oder Passwörter, jeder kann zugreifen !!!    
 		Einziger Schutz ist die Deaktivierung der Konfigurationsmöglichkeit!!!
 
 B. Das Kalkulationstool (kommt demnächst)
