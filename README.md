@@ -1,7 +1,6 @@
 Hier findet Ihr Zusatzsoftware für das PV Projekt zur Visualisierung und das Kalkulationstool demnächst für die Ertrags-(Amortisationsrechnung)
 
 A. Die Visualisierung in Excel  
-Dies funktioniert wie folgt (steht auch auf Seite Anleitung):
 1.	Makros aktivieren  
 Im Datei Explorer Datei rechts-klicken => Eigenschaften => Sicherheit => Zulassen Haken setzen, übernehmen	
 2.	Einrichtung	  
