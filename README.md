@@ -2,11 +2,11 @@ Hier findet Ihr Zusatzsoftware für das PV Projekt zur Visualisierung und das Ka
 
 A. Die Visualisierung in Excel  
 Dies funktioniert wie folgt (steht auch auf Seite Anleitung):
-1.	Makros aktivieren	
+1.	Makros aktivieren: Im Datei Explorer Datei rechts-klicken => Eigenschaften => Sicherheit => Zulassen Haken setzen, übernehmen	
 2.	Einrichtung	
 		Den ESP32 mit dem Heimnetz verbinden (über den ESP32 Accesspoint)
 		Der ESP32 muss im Heimnetz (z.B. über die Fritzbox) folgenden Namen erhalten: 
-3.	Optionale Tests	
+3.	Optionale Tests	  
 		Jetzt müsstet Du hier beim Klicken auf den Link die Startseite des ESP-Webservers sehen
 		Die Datenseite kannst Du nun wie folgt aufrufen:
 		=1 für heute; =2 für dieser Monat; =3 für dieses Jahr; =4 für Vorjahr
