@@ -5,7 +5,7 @@ Hier findet Ihr Zusatzsoftware für das PV Projekt zur Visualisierung und das Ka
 Im Datei Explorer Datei rechts-klicken => Eigenschaften => Sicherheit => Zulassen Haken setzen, übernehmen	
 2.	Einrichtung	  
 		Den ESP32 mit dem Heimnetz verbinden (über den ESP32 Accesspoint)  
-		Der ESP32 muss im Heimnetz (z.B. über die Fritzbox) folgenden Namen erhalten: 
+		Der ESP32 muss im Heimnetz (z.B. über die Fritzbox) folgenden Namen erhalten: http://esp32-pv-anlage
 3.	Optionale Tests	  
 		Jetzt müsstet Du [hier](http://esp32-pv-anlage)  auf die Startseite des ESP-Webservers kommen.  
 		Die Datenseite kannst Du nun wie folgt aufrufen:
