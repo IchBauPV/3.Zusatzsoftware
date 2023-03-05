@@ -21,7 +21,7 @@ Button *Vollbild* stellt Vollbildmodus mit dem entspr. Zoomlevel ein
 Buttons *<-* *->* Navigation Tag/Monat vor oder zurück    
 		
 #### 5.	Optionale Erweiterung - Zugriff aus über das Internet	  
-Durch Einrichtung einer Port-Weiterleitung im Router könnte Ihr auch aus dem Web zugreifen   
+Durch Einrichtung einer Port-Weiterleitung im Router könnt Ihr auch aus dem Internet zugreifen   
 Achtung: Es gibt hier keine Schutzfunktionen oder Passwörter, jeder kann zugreifen !!!    
 Einziger Schutz ist die Deaktivierung der Konfigurationsmöglichkeit!!!
 
