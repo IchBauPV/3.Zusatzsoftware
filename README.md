@@ -14,11 +14,11 @@ http://esp32-pv-anlage/get?ShowDataPage=1 für heute;
 [=3](http://esp32-pv-anlage/get?ShowDataPage=3) für dieses Jahr; 
 [=4](http://esp32-pv-anlage/get?ShowDataPage=4) für Vorjahr
 #### 4.	Bedienung des Programms	      
-Tab                                               für Ansicht  Jahr / Monat / Tag wählen    
-Button                                           holt die aktuellen Zahlen vom ESP und stellt sie dar    
-Button                                           stellt Zoomlevel 1 bzw 2 ein     
-Button                                           stellt Vollbildmodus mit dem entspr. Zoomlevel ein     
-Button                                          Navigation Tag/Monat vor oder zurück    
+Tabs   *Jahr / Monat / Tag* entsprechende Ansicht wählen    
+Button *Aktualisieren* holt die aktuellen Zahlen vom ESP und stellt sie dar    
+Button *Zoom* stellt Zoomlevel 1 bzw 2 ein     
+Button *Vollbild* stellt Vollbildmodus mit dem entspr. Zoomlevel ein     
+Buttons *<-* *->* Navigation Tag/Monat vor oder zurück    
 		
 #### 5.	Optionale Erweiterung - Zugriff aus über das Internet	  
 Durch Einrichtung einer Port-Weiterleitung im Router könnte Ihr auch aus dem Web zugreifen   
